@@ -1,0 +1,22 @@
+.estilohora{
+    font-size: 15px;
+    color: #428bca;
+}
+
+.estilo{
+    font-size: 18px;
+    color: #428bca;
+}
+
+.pointer{
+ 	cursor: pointer;
+}
+
+.panel-title{
+    cursor: pointer;
+}
+
+table td{
+    border: 1px solid black;
+}
+
