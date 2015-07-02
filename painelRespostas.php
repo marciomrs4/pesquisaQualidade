@@ -1,5 +1,14 @@
 <?php
-    include './componentes/header.php';
+
+include_once 'vendor/autoload.php';
+
+include './componentes/header.php';
+
+if($_SESSION['dep_codigo']){
+
+}
+
+
 ?>
 
 <div class="container-fluid "> 

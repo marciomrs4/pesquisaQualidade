@@ -1,0 +1,21 @@
+{
+    "name": "marcio/pesquisa-qualidade",
+    "description": "Pesquisa de Satisfacao",
+    "authors": [
+        {
+            "name": "Márcio Ramos",
+            "email": "marciomrs4@hotmail.com"
+        }
+    ],
+    "require": {
+      "respect/validation": "^0.9.3"
+    },
+
+  "autoload": {
+
+    "psr-0": {
+      "repository\\": "src/",
+      "service\\": "src/"
+    }
+  }
+}
